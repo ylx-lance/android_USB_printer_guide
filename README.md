@@ -1,0 +1,2 @@
+# android_USB_printer_guide
+本手册通过指导将Linux系统上一些优秀的开源打印工具（如GhostScript、foo2zjs等）移植到Android平台，结合Android应用层的API接口（如IText、Canvas、PDFDocument等），实现Android设备控制USB打印机进行打印的功能。 
